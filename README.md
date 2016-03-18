@@ -4,7 +4,7 @@ Get started with a new CakePHP project, powered by PostgreSQL, on [SourceLair](h
 
 ## Getting started
 
-The easiest way to get started is by visiting http://lair.io/stacks/cake-postgres and starting a new SourceLair project with a single click.
+The easiest way to get started is by visiting http://lair.io/stacks/cakephp-postgres and starting a new SourceLair project with a single click.
 
 This will do the following on your behalf:
 

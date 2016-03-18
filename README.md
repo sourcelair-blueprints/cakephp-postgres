@@ -10,7 +10,8 @@ This will do the following on your behalf:
 
 1. create a new SourceLair project for your CakePHP + PostgreSQL app
 2. clone the code from this Git repository
-3. start an Apache server serving your project and expose it to your public URL
+3. install your composer dependencies (`composer install`)
+4. start an Apache server serving your project and expose it to your public URL
 
 ## Setting up the database
 
@@ -18,7 +19,7 @@ Your database server will be set up for you, you'll only need to create the data
 
 1. type `psql -h postgres -U postgres`
 2. enter your password, which is "mysecretpassword" by default
-3. create a new database, by typing `create new database my_app;`
+3. create a new database, by typing `create database my_app;`
 
 That's it, you're ready to go!
 
